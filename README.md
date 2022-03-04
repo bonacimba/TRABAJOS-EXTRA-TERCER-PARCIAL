@@ -23,6 +23,8 @@
 
 ## MARCO TEÓRICO
 
+![](https://github.com/bonacimba/TRABAJOS-EXTRA-TERCER-PARCIAL/blob/main/IMG%20BN/Diagrama%20en%20blanco%20-%20P%C3%A1gina%201%20(2).png)
+
 
 ## EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
