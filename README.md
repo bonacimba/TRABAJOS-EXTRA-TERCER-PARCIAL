@@ -34,7 +34,9 @@
 ## CONCLUSIONES
 
 ## BIBLIOGRAFÍA
-
+ - Mecafenix, I. (2020, 9 junio). Arduino ¿Que es, como funciona? y sus partes. Ingeniería Mecafenix. https://www.ingmecafenix.com/electronica/arduino/
+ - Aguayo, P. (2021, 12 julio). ¿Qué es Arduino? Arduino.cl - Compra tu Arduino en Línea. https://arduino.cl/que-es-arduino/
+ - Fundación Aquae. (2020, 30 octubre). ¿Sabes qué es un Arduino y para qué sirve? - Fundación Aquae. https://www.fundacionaquae.org/wiki/sabes-arduino-sirve/
 
 
 
