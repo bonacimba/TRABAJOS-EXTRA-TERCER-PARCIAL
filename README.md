@@ -37,9 +37,12 @@
 
 ## BIBLIOGRAFÍA
  - Mecafenix, I. (2020, 9 junio). Arduino ¿Que es, como funciona? y sus partes. Ingeniería Mecafenix. https://www.ingmecafenix.com/electronica/arduino/
+ 
  - Aguayo, P. (2021, 12 julio). ¿Qué es Arduino? Arduino.cl - Compra tu Arduino en Línea. https://arduino.cl/que-es-arduino/
+ 
  - Fundación Aquae. (2020, 30 octubre). ¿Sabes qué es un Arduino y para qué sirve? - Fundación Aquae. https://www.fundacionaquae.org/wiki/sabes-arduino-sirve/
-
+ 
+- Pérez, J. P. (2016, 22 octubre). Entornos gráficos de Programación con Arduino. Programamos. https://programamos.es/entornos-graficos-de-programacion-con-arduino/#:%7E:text=Blockly%20es%20un%20entorno%20gr%C3%A1fico,con%20el%20IDE%20de%20Arduino.
 
 
 
